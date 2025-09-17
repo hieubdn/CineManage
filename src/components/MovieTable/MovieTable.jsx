@@ -9,8 +9,6 @@ import {
 } from "semantic-ui-react";
 import MovieModal from "../MovieModal/MovieModal";
 
-// TODO: Break out parts that aren't actually the table...
-
 export default function MovieTable() {
   const [movies, setMovies] = useState([]);
   const [selectedMovie, setSelectedMovie] = useState();
