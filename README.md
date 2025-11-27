@@ -1,4 +1,4 @@
-<h1 align="center">🎬 MOVIE DATABASE MANAGEMENT SYSTEM</h1>
+<h1 align="center">MOVIE DATABASE MANAGEMENT SYSTEM</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/last%20commit-january-blue" alt="last commit january">
@@ -34,14 +34,14 @@
 <h2>Benefits</h2>
 
 <ul>
-<li><strong>🎬 Complete Movie Management</strong>: Create, read, update, and delete movie entries with detailed information</li>
-<li><strong>⚡ Real-time Search</strong>: Instant search functionality with live filtering by movie titles</li>
-<li><strong>🎯 User-Friendly Interface</strong>: Modern React UI with Semantic UI components for intuitive navigation</li>
-<li><strong>🔧 RESTful API</strong>: Clean Flask backend with proper HTTP methods and JSON responses</li>
-<li><strong>🌍 CSV Data Import</strong>: Bulk import movie data from CSV files with automatic UUID generation</li>
-<li><strong>⏰ Infinite Scroll</strong>: Seamless pagination with automatic loading of more content</li>
-<li><strong>📊 Real-time Updates</strong>: Live UI updates when movies are added, edited, or deleted</li>
-<li><strong>🎨 Modern Design</strong>: Beautiful interface with responsive design and smooth animations</li>
+<li><strong>Complete Movie Management</strong>: Create, read, update, and delete movie entries with detailed information</li>
+<li><strong>Real-time Search</strong>: Instant search functionality with live filtering by movie titles</li>
+<li><strong>User-Friendly Interface</strong>: Modern React UI with Semantic UI components for intuitive navigation</li>
+<li><strong>RESTful API</strong>: Clean Flask backend with proper HTTP methods and JSON responses</li>
+<li><strong>CSV Data Import</strong>: Bulk import movie data from CSV files with automatic UUID generation</li>
+<li><strong>Infinite Scroll</strong>: Seamless pagination with automatic loading of more content</li>
+<li><strong>Real-time Updates</strong>: Live UI updates when movies are added, edited, or deleted</li>
+<li><strong>Modern Design</strong>: Beautiful interface with responsive design and smooth animations</li>
 </ul>
 
 <h2>Features</h2>
@@ -200,23 +200,23 @@ cd flask-react-app</code></pre>
 <h2>Future Enhancements</h2>
 
 <ul>
-<li>📈 <strong>SQLAlchemy Integration</strong>: Replace basic SQLite with ORM</li>
-<li>📈 <strong>Enhanced Security</strong>: Input validation and SQL injection prevention</li>
-<li>📈 <strong>Advanced Filtering</strong>: Filter by genre, year, director, etc.</li>
-<li>📈 <strong>User Authentication</strong>: Login system and user management</li>
-<li>📈 <strong>File Upload</strong>: Direct CSV file upload via API</li>
-<li>📈 <strong>Export Functionality</strong>: Export data to various formats</li>
-<li>📈 <strong>Advanced UI</strong>: Better styling and animations</li>
-<li>📈 <strong>Automated Testing</strong>: Comprehensive test coverage</li>
+<li><strong>SQLAlchemy Integration</strong>: Replace basic SQLite with ORM</li>
+<li><strong>Enhanced Security</strong>: Input validation and SQL injection prevention</li>
+<li><strong>Advanced Filtering</strong>: Filter by genre, year, director, etc.</li>
+<li><strong>User Authentication</strong>: Login system and user management</li>
+<li><strong>File Upload</strong>: Direct CSV file upload via API</li>
+<li><strong>Export Functionality</strong>: Export data to various formats</li>
+<li><strong>Advanced UI</strong>: Better styling and animations</li>
+<li><strong>Automated Testing</strong>: Comprehensive test coverage</li>
 </ul>
 
 <h2>Support & Updates</h2>
 
 <ul>
-<li>📧 <strong>Email</strong>: Contact through <a href="https://hiubdn.com">hiubdn.com</a></li>
-<li>💬 <strong>Issues</strong>: Report bugs and feature requests</li>
-<li>📚 <strong>Documentation</strong>: Comprehensive guides and tutorials</li>
-<li>🔧 <strong>Contributions</strong>: Open source development</li>
+<li><strong>Email</strong>: Contact through <a href="https://hiubdn.com">hiubdn.com</a></li>
+<li><strong>Issues</strong>: Report bugs and feature requests</li>
+<li><strong>Documentation</strong>: Comprehensive guides and tutorials</li>
+<li><strong>Contributions</strong>: Open source development</li>
 </ul>
 
 <h2>License</h2>
@@ -227,8 +227,13 @@ cd flask-react-app</code></pre>
 
 <p>This application is for educational and demonstration purposes. Users are responsible for data security and backup. The developers are not responsible for any data loss or misuse.</p>
 
-<hr>
+---
+<p align="center"><strong>Powered by <a href="https://hiubdn.com">hiubdn</a> - Enhanced Version</strong></p>
 
-<p align="center"><strong>Powered by <a href="https://hiubdn.com">hiubdn.com</a> - Full Stack Development</strong></p>
+<p align="center"><em>Copyright hiubdn - All rights reserved</em></p>
 
-<p align="center"><em>Copyright hiubdn.com - All rights reserved</em></p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub stars">
+<img src="https://img.shields.io/github/forks/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub forks">
+<img src="https://img.shields.io/github/issues/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub issues">
+</p>
