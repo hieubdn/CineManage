@@ -1,13 +1,15 @@
-<h1 align="center">CineManage - MOVIE DATABASE MANAGEMENT SYSTEM </h1>
-<p align="center">
-      <img src="https://img.shields.io/badge/last%20commit-january-blue" alt="last commit january">
-      <img src="https://img.shields.io/badge/Updated-January-green" alt="Updated January">
-      <img src="https://img.shields.io/badge/JavaScript-60%25-yellow" alt="JavaScript 60%">
-      <img src="https://img.shields.io/badge/Python-40%25-orange" alt="Python 40%">
-      <img src="https://img.shields.io/badge/languages-2-red" alt="languages 2">
-</p>
+<h1 align="center">CineManage - MOVIE DATABASE MANAGEMENT SYSTEM 
+      <p align="center">
+            <img src="https://img.shields.io/badge/last%20commit-january-blue" alt="last commit january">
+            <img src="https://img.shields.io/badge/Updated-January-green" alt="Updated January">
+            <img src="https://img.shields.io/badge/JavaScript-60%25-yellow" alt="JavaScript 60%">
+            <img src="https://img.shields.io/badge/Python-40%25-orange" alt="Python 40%">
+            <img src="https://img.shields.io/badge/languages-2-red" alt="languages 2">
+      </p>
+</h1>
 
-<h2 align="center">Built with the tools and technologies: </h2>
+
+<h3 align="center">Built with the tools and technologies: </h3>
 <p align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
