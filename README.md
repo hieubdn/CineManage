@@ -229,6 +229,12 @@ cd flask-react-app</code></pre>
 
 <hr>
 
-<p align="center"><strong>Powered by <a href="https://hiubdn.com">hiubdn.com</a> - Full Stack Development</strong></p>
+<p align="center"><strong>Powered by <a href="https://hiubdn.com">hiubdn</a> - Enhanced Version</strong></p>
 
-<p align="center"><em>Copyright hiubdn.com - All rights reserved</em></p>
+<p align="center"><em>Copyright hiubdn - All rights reserved</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/github/stars/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub stars">
+<img src="https://img.shields.io/github/forks/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub forks">
+<img src="https://img.shields.io/github/issues/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub issues">
+</p>
